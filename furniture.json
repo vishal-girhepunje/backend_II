@@ -1,5 +1,6 @@
-[
- {
+{
+    "furniture":[
+    {
   "prod_img": "https:\/\/n.nordstrommedia.com\/id\/sr3\/86690867-8299-4811-b6ff-e02f0625c70b.jpeg?h=365&w=240&dpr=2",
   "pro_brand": "Stokke",
   "product_name": "Tripp Trapp® Chair",
@@ -524,3 +525,4 @@
   "curr_price": "7,395.73"
  }
 ]
+}

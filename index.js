@@ -2,7 +2,7 @@ const PORT = process. env. PORT || 3000;
 const path = require("path");
 const jsonServer = require("json-server");
 const server = jsonServer. create();
-const router = jsonServer. router( path. join(_dirname, "db.json"));
+const router = jsonServer. router( path. join(_dirname, "furniture.json"));
 const middlewares = jsonServer. defaults();
 server. use(middlewares);
 server. use(jsonServer.bodyParser);
